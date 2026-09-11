@@ -150,7 +150,7 @@ function App() {
                 I build and support modern web applications across the frontend and backend,
                 with a strong focus on React.js, Node.js, Express.js and MongoDB.
               </p>
-              <a className="phone-link" href="tel:+91910088943"><Phone size={15}/> +91-910088943</a>
+              <a className="phone-link" href="tel:+919100889453"><Phone size={15}/> +91-9100889453</a>
               <div className="hero-buttons">
                 <a className="btn main" href="#projects">Explore my work <ArrowDown size={16}/></a>
                 <a className="btn ghost" href="#contact">Let's connect <ArrowUpRight size={16}/></a>
@@ -285,7 +285,7 @@ function App() {
               <a className="btn main" href="mailto:saisunder453@gmail.com"><Mail size={17}/> Email me</a>
               <a className="btn ghost" href="https://www.linkedin.com/in/saidevarapalli1/" target="_blank" rel="noreferrer"><ExternalLink size={17}/> LinkedIn</a>
               <a className="btn ghost" href="https://github.com/" target="_blank" rel="noreferrer"><Github size={17}/> GitHub</a>
-              <a className="btn ghost" href="tel:+91910088943"><Phone size={17}/> +91-910088943</a>
+              <a className="btn ghost" href="tel:+919100889453"><Phone size={17}/> +91-9100889453</a>
             </div>
             <div className="contact-note"><Send size={15}/> GitHub URL is still a placeholder; replace it with your actual profile before publishing.</div>
           </div>
